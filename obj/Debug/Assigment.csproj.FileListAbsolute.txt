@@ -1,0 +1,12 @@
+E:\Duy\Greenwich\Programs\greenwich\IT\10 Advance Programming\My Assignment\Code\Assigment\obj\Debug\Assigment.csprojAssemblyReference.cache
+E:\Duy\Greenwich\Programs\greenwich\IT\10 Advance Programming\My Assignment\Code\Assigment\bin\Debug\Assigment.exe.config
+E:\Duy\Greenwich\Programs\greenwich\IT\10 Advance Programming\My Assignment\Code\Assigment\bin\Debug\Assigment.exe
+E:\Duy\Greenwich\Programs\greenwich\IT\10 Advance Programming\My Assignment\Code\Assigment\bin\Debug\Assigment.pdb
+E:\Duy\Greenwich\Programs\greenwich\IT\10 Advance Programming\My Assignment\Code\Assigment\obj\Debug\Assigment.exe
+E:\Duy\Greenwich\Programs\greenwich\IT\10 Advance Programming\My Assignment\Code\Assigment\obj\Debug\Assigment.pdb
+D:\Download\GCS18556_ChauMinhDuy_GCS0701B_Assignment2\GCS0701B_ChauMinhDuy_GCS18556_Assignment2\Code\Assigment\bin\Debug\Assigment.exe.config
+D:\Download\GCS18556_ChauMinhDuy_GCS0701B_Assignment2\GCS0701B_ChauMinhDuy_GCS18556_Assignment2\Code\Assigment\bin\Debug\Assigment.exe
+D:\Download\GCS18556_ChauMinhDuy_GCS0701B_Assignment2\GCS0701B_ChauMinhDuy_GCS18556_Assignment2\Code\Assigment\bin\Debug\Assigment.pdb
+D:\Download\GCS18556_ChauMinhDuy_GCS0701B_Assignment2\GCS0701B_ChauMinhDuy_GCS18556_Assignment2\Code\Assigment\obj\Debug\Assigment.csprojAssemblyReference.cache
+D:\Download\GCS18556_ChauMinhDuy_GCS0701B_Assignment2\GCS0701B_ChauMinhDuy_GCS18556_Assignment2\Code\Assigment\obj\Debug\Assigment.exe
+D:\Download\GCS18556_ChauMinhDuy_GCS0701B_Assignment2\GCS0701B_ChauMinhDuy_GCS18556_Assignment2\Code\Assigment\obj\Debug\Assigment.pdb
